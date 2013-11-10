@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Basic theme information -->
+    <string name="theme_title">Apex Theme Sample</string>
+    <string name="developer_name">Android Does</string>
+    <!-- This (optional) link will appear at the end of the theme description -->
+    <string name="developer_link">http://www.apexlauncher.com/</string>
+    <string name="theme_description">This is a sample theme.\n\nTheme developers may put anything here.\n\nEmail: support@anddoes.com</string>
+
+    <!-- Theme settings -->
+    <bool name="config_iconpack">true</bool>
+    <bool name="config_apexskin">true</bool>
+
+    <!-- The feature graphic will appear above the theme description -->
+    <string name="theme_feature">feature</string>
+
+    <!-- Each theme may have up to 5 preview images -->
+    <string name="theme_preview1">preview1</string>
+    <string name="theme_preview2">preview2</string>
+	
+	<!--ADW Strings-->
+	<string name="hello">Description here</string>
+	<string name="app_name">Theme name here</string>
+
+</resources>
